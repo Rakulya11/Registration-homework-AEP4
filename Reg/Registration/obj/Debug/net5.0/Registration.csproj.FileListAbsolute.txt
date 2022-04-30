@@ -1,0 +1,16 @@
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\bin\Debug\net5.0\Registration.exe
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\bin\Debug\net5.0\Registration.deps.json
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\bin\Debug\net5.0\Registration.runtimeconfig.json
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\bin\Debug\net5.0\Registration.runtimeconfig.dev.json
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\bin\Debug\net5.0\Registration.dll
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\bin\Debug\net5.0\ref\Registration.dll
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\bin\Debug\net5.0\Registration.pdb
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\obj\Debug\net5.0\Registration.csproj.AssemblyReference.cache
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\obj\Debug\net5.0\Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\obj\Debug\net5.0\Registration.AssemblyInfoInputs.cache
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\obj\Debug\net5.0\Registration.AssemblyInfo.cs
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\obj\Debug\net5.0\Registration.csproj.CoreCompileInputs.cache
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\obj\Debug\net5.0\Registration.dll
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\obj\Debug\net5.0\ref\Registration.dll
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\obj\Debug\net5.0\Registration.pdb
+C:\Users\tu7bpv1mf\source\repos\Registration\Registration\obj\Debug\net5.0\Registration.genruntimeconfig.cache

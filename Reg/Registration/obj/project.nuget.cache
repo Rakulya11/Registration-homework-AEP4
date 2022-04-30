@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MbyAZ51myOASz5TFkJdU9qYVtoFDgvWARSRsT74FGaJA6RbY0qkFHzzUY4pem5GdrgUqVVYXrtz/2ZbMoWnU6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tu7bpv1mf\\source\\repos\\Registration\\Registration\\Registration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu7bpv1mf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
